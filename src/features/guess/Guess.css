@@ -1,0 +1,16 @@
+input {
+  width: 160px;
+  height: 40px;
+  padding: 8px;
+  margin-bottom: 0px;
+  border-radius: 5px;
+  border: 1px solid rgb(78, 113, 189);
+}
+
+.btn {
+  height: 40px !important;
+  margin-left: 5px;
+}
+.upper {
+  margin-left: 3px;
+}
